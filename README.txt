@@ -16,8 +16,6 @@ This repository contains the code for analyzing data related to Tiktok Influence
 * Run all cells in the Jupyter Notebook
 * Go through Tiktok_report.html to get a general understanding of dataset 
 
-
-
 ## File description
 * '**Tiktok Influencer Analysis.ipynb**' :  Jupyter Notebook containing the code for the analysis.
 
